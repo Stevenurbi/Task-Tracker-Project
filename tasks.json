@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "'Hoy correré'",
+    "status": "todo",
+    "createdAt": "2025-04-20T12:10:03.401Z",
+    "updatedAt": "2025-04-20T12:10:03.403Z"
+  },
+  {
+    "id": 2,
+    "description": "'Hoy correré'",
+    "status": "todo",
+    "createdAt": "2025-04-20T12:11:48.096Z",
+    "updatedAt": "2025-04-20T12:11:48.097Z"
+  },
+  {
+    "id": 3,
+    "description": "'Mañana iré de viaje a Estambul'",
+    "status": "todo",
+    "createdAt": "2025-04-20T13:26:10.087Z",
+    "updatedAt": "2025-04-20T13:26:10.088Z"
+  }
+]
